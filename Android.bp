@@ -1,0 +1,8 @@
+android_app {
+    name: "AetheriaWalls",
+    srcs: [],
+    resource_dirs: ["res"],
+    asset_dirs: ["assets"],
+    sdk_version: "current",
+    certificate: "platform",
+}
